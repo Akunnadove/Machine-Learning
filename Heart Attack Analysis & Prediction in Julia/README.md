@@ -1,4 +1,4 @@
-# Heart Attack Analysis and Prediction
+# Heart Attack Analysis and Prediction using Julia
 Predict if a patient likely has heart disease or is normal based on the inputted features.
 
 ## Project Objective
